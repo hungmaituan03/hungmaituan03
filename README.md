@@ -1,5 +1,6 @@
 ## Hi there 👋
 
+![QR Code](QRCode_20241113001339.png)
 <!--
 **hungmaituan03/hungmaituan03** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
